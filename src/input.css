@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+
+/* colum 1 */
+.vector {
+  display: flex;
+  flex-direction: column;
+}
+
+.rank {
+  width: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+}
+
+.evo1 img {
+  margin-top: 50px;
+}
+
+.col1 {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.imgcol1 {
+  width: 56px;
+  height: 56px;
+  border-radius: 9999px;
+  margin-top: 10px;
+}
+
+.vol1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vol1 img {
+  width: 12.5px;
+  height: 20.5px;
+}
+
+.H1 p {
+  color: #22ee98;
+  margin-top: 29px;
+}
+
+.D1 p {
+  color: #22ee98;
+  margin-top: 29px;
+}
+
+.item1 p {
+  margin-top: 29px;
+}
+
+/* colum2 */
+.D2 p {
+  color: #ff1515;
+  margin-top: 29px;
+}
+
+/* colum3 */
+.H3 p {
+  color: #ff1515;
+  margin-top: 29px;
+}
+
+.D3 p {
+  color: #ff1515;
+  margin-top: 29px;
+}
+
+/* colum4 */
+.rankcol4 {
+  display: flex;
+  margin-left: 40px;
+  margin-top: 35px;
+}
+
+.H4 p {
+  color: #ff1515;
+  margin-top: 29px;
+}
+
+.D4 p {
+  color: #ff1515;
+  margin-top: 29px;
+}
+
+/* colum5 */
+
+.evo5 {
+  display: flex;
+  width: 14px;
+  height: 8px;
+  color: #ffffffcc;
+  margin-top: 60px;
+}
+
+.D5 p {
+  color: #ff1515;
+  margin-top: 29px;
+}
